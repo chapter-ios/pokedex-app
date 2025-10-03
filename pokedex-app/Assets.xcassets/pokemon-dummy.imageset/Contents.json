@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "pokemon-dummy.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
